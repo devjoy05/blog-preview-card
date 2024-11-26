@@ -54,6 +54,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@decjoy05](https://www.frontendmentor.io/profile/devjoy05)
+- Frontend Mentor - [@devjoy05](https://www.frontendmentor.io/profile/devjoy05)
 
 
