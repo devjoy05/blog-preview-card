@@ -45,15 +45,15 @@ Users should be able to:
 
 ### What I learned
 
+- This is my first time using a local font and I learned how to use the `@font-face` rule in CSS.
 
 
 ### Continued development
 
-
+- Practicing more on Flexbox
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@decjoy05](https://www.frontendmentor.io/profile/devjoy05)
+
 
