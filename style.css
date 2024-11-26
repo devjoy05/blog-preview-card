@@ -33,7 +33,7 @@ body {
     box-shadow: 8px 8px 0px 0px #111;
 }
 
-.container img {
+.card img {
     width: 100%;
     border-radius: 0.7rem;
 }
@@ -102,7 +102,7 @@ body {
 }
 
 @media (max-width:410px) {
-    .container {
+    .card {
         width: 280px;
     }
 
