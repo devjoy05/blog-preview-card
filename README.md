@@ -47,6 +47,8 @@ Users should be able to:
 
 - This is my first time using a local font and I learned how to use the `@font-face` rule in CSS.
 
+- Using `clamp()` function to reduce the font size for the smaller screens without using media queries.
+
 
 ### Continued development
 
